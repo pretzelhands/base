@@ -1,0 +1,23 @@
+{
+    "name": "pretzelhands/base",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Richard Blechinger",
+            "email": "hello@pretzelhands.com"
+        }
+    ],
+    "autoload": {
+        "files": [ "src/helpers.php" ],
+        "psr-4": {
+            "Pretzel\\": "src/Pretzel"
+        }
+    },
+    "require": {
+        "php": "^7.4|^8.0",
+        "vlucas/phpdotenv": "^5.3"
+    },
+    "scripts": {
+        "dev": "php -S localhost:8080 -t public &>/dev/null & expose share localhost:8080"
+    }
+}
