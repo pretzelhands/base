@@ -43,3 +43,10 @@ more details on how Expose works, refer to [the documentation](https://beyondco.
 If you have any troubles setting up this project with any information
 you can provide and I'll help you get it running
 
+
+## 🥨 Learn more
+
+If you'd like to see more repositories and tutorials like this,
+consider [following me on Twitter](https://twitter.com/pretzelhds)
+or [subscribing to my newsletter](https://pretzelhands.com/newsletter).
+
