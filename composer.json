@@ -17,6 +17,9 @@
         "php": "^7.4|^8.0",
         "vlucas/phpdotenv": "^5.3"
     },
+    "require-dev" : {
+        "beyondcode/expose": "^1.5.0"
+    },
     "scripts": {
         "dev": "php -S localhost:8080 -t public &>/dev/null & expose share localhost:8080"
     }
